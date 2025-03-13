@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluetoothSerialCommunication", "BluetoothSerialCommunication.csproj", "{5685AB22-12C6-490E-B1EE-97CEC4B7BD9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5685AB22-12C6-490E-B1EE-97CEC4B7BD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5685AB22-12C6-490E-B1EE-97CEC4B7BD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5685AB22-12C6-490E-B1EE-97CEC4B7BD9E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5685AB22-12C6-490E-B1EE-97CEC4B7BD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5685AB22-12C6-490E-B1EE-97CEC4B7BD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5685AB22-12C6-490E-B1EE-97CEC4B7BD9E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E027D4F5-8B47-4FD2-9969-B3E14B9B7785}
+	EndGlobalSection
+EndGlobal
